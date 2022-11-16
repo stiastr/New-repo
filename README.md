@@ -19,6 +19,8 @@ Let’s create the following readme file and push it to our main branch:
 # First header
 Main information about app
 https://www.makeareadme.com/
+https://www.linkedin.com/learning/craft-a-great-github-profile/creating-readme-md-files?u=43268076
+https://www.linkedin.com/learning/learning-gitlab-14539757/markdown-basics?autoplay=true&u=43268076 
 
 ## Second header
 App HTML details
