@@ -1,1 +1,2 @@
-Heia, jeg legger til tekst her.
+Hi I just wanted to add some text to this file, is that OK? 
+That's fine, I'll add some text too.
